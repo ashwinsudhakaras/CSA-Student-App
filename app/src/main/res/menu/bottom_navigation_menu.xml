@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/tutorial"
+        android:title="@string/tutorials"
+        android:icon="@drawable/ic_tutorials" />
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:title="@string/videos" />
+
+    <item
+        android:id="@+id/events"
+        android:title="@string/events"
+        android:icon="@drawable/ic_baseline_emoji_events_24" />
+</menu>
